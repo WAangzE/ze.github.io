@@ -1,0 +1,33 @@
+
+body{
+    background: thistle;
+}
+
+#mainNavbar{
+    font-family: Nunito;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+#mainNavbar a{
+    font-size: 2rem;
+}
+
+#mainNavbar .nav-link:hover{
+    color: tomato;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#headGroup h1{
+    font-size: 4rem;
+    font-weight: 100;
+
+}
+
+#headGroup span{
+    color: tomato;
+}
