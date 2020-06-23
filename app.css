@@ -1,5 +1,6 @@
 body{
     height: 100%;
+    font-size: 1.25rem;
 }
 #mainNavbar{
     font-family: Nunito;
@@ -11,6 +12,9 @@ body{
     transition: background 500ms;
 }
 
+#jumbbox{
+    margin:auto  auto;
+}
 
 #mainNavbar a{
     color: black;
