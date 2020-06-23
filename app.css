@@ -11,9 +11,6 @@ body{
     transition: background 500ms;
 }
 
-.card{
-    margin-right: 5rem;
-}
 
 #mainNavbar a{
     color: black;
@@ -31,8 +28,8 @@ body{
 
 #contentMain{
     margin-top: 5rem;
-    margin-left: 12rem;
-    margin-right: 12rem;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #headGroup h1{
@@ -46,4 +43,5 @@ body{
     margin-top: -60px;/*等于footer的高度*/ 
     height: 60px; 
     clear:both;
+    background: white;
 }
