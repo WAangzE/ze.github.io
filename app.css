@@ -1,8 +1,6 @@
-
 body{
-    background: thistle;
+    height: 100%;
 }
-
 #mainNavbar{
     font-family: Nunito;
     font-weight: 100;
@@ -10,16 +8,23 @@ body{
 }
 
 #mainNavbar a{
+    color: black;
     font-size: 2rem;
 }
 
 #mainNavbar .nav-link:hover{
-    color: tomato;
+    color: blue;
 }
 
 .content {
     margin-top: 100px;
     margin-bottom: 100px;
+}
+
+#contentMain{
+    margin-top: 5rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
 }
 
 #headGroup h1{
@@ -30,4 +35,11 @@ body{
 
 #headGroup span{
     color: tomato;
+}
+
+#footer{
+    position: absolute; 
+    margin-top: -60px;/*等于footer的高度*/ 
+    height: 60px; 
+    clear:both;
 }
