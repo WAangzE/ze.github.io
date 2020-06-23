@@ -6,6 +6,14 @@ body{
     font-weight: 100;
     font-size: 2rem;
 }
+.navbar.scrolled {
+    background: white;
+    transition: background 500ms;
+}
+
+.card{
+    margin-right: 5rem;
+}
 
 #mainNavbar a{
     color: black;
@@ -31,10 +39,6 @@ body{
     font-size: 4rem;
     font-weight: 100;
 
-}
-
-#headGroup span{
-    color: tomato;
 }
 
 #footer{
