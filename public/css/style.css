@@ -103,7 +103,8 @@ code {
 }
 
 .sidebar-item {
-	display: block;
+	display: flex;
+	flex: auto;
 }
 
 .sidebar ul {
@@ -120,6 +121,7 @@ code {
 .lead {
 	font-size: 120%;
 	color: #aaa;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 .sidebar-header {
@@ -136,6 +138,7 @@ code {
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 a.nav-item {
