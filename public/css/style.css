@@ -98,7 +98,7 @@ code {
 	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: rgb(27, 18, 83);
+	background-color: rgb(12, 13, 68);
 	color: #fff;
 }
 
@@ -112,7 +112,7 @@ code {
 }
 
 .sidebar-brand > a {
-	font-size: 80%;
+	font-size: 150%;
 	font-family: 'Gelasio';
 	color: #fff;
 }
