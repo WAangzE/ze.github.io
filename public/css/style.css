@@ -103,7 +103,7 @@ code {
 }
 
 .sidebar-item {
-	display: flex;
+	display: block;
 	flex: auto;
 }
 
@@ -143,7 +143,7 @@ code {
 
 a.nav-item {
 	font-size: 120%;
-	font-family: "Noto Sans";
+	font-family: 'Times New Roman', Times, serif;
 	text-transform: capitalize;
 	color: #aaa;
 }
@@ -290,8 +290,8 @@ footer {
 }
 
 .sidebar-footer {
-	margin-top: 80px;
-	font-size: 0.75em;
+	margin-bottom: 20px;
+	font-size: 0.85em;
 	font-weight: lighter;
 	font-family: "Roboto";
 	line-height: 1.5;
