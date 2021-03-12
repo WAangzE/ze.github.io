@@ -124,8 +124,16 @@ code {
 	font-family: 'Times New Roman', Times, serif;
 }
 
+.biography{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top:5%;
+	padding-bottom: 5%;
+}
+
 .sidebar-header {
 	margin-bottom: 50px;
+	margin-top:30%;
 }
 
 .sidebar-nav {
