@@ -127,7 +127,6 @@ code {
 .biography{
 	padding-left: 5%;
 	padding-right: 5%;
-	padding-top:5%;
 	padding-bottom: 5%;
 }
 
@@ -340,6 +339,8 @@ footer {
 
 	.sidebar-header {
 		margin-bottom: 0px;
+		margin-top: 0px;
+		padding: auto;
 	}
 
 	.sidebar-footer {
