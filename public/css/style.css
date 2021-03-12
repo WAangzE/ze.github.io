@@ -125,9 +125,7 @@ code {
 }
 
 .biography{
-	padding-left: 5%;
-	padding-right: 5%;
-	padding-bottom: 5%;
+	padding-bottom: 2%;
 }
 
 .sidebar-header {
@@ -213,7 +211,7 @@ article .share .gplus:hover {
 }
 
 article {
-	padding: 0 5% 0;
+	padding: 0 10% 0;
 	font-size: 17px;
 	margin-bottom: 100px;
 	line-height: 1.9;
@@ -338,9 +336,8 @@ footer {
 	}
 
 	.sidebar-header {
-		margin-bottom: 0px;
-		margin-top: 0px;
-		padding: auto;
+		margin-bottom: auto;
+		margin-top: auto;
 	}
 
 	.sidebar-footer {
