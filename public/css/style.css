@@ -92,7 +92,7 @@ code {
 }
 
 .sidebar {
-	/*position: fixed;*/
+	position: fixed;
 	display: flex;
 	flex-flow: column nowrap;
 	flex: 0 0 220px;
