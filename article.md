@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /article/
 ---
 <article class="post">
