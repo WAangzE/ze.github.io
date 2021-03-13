@@ -91,6 +91,8 @@ code {
 	padding: 0px 30px;
 }
 
+
+
 .sidebar {
 	position: fixed;
 	display: flex;
@@ -100,6 +102,9 @@ code {
 	z-index: 1;
 	background-color: rgb(12, 13, 68);
 	color: #fff;
+	top:0;
+	bottom:0;
+	width: 27%;
 }
 
 .sidebar-item {
@@ -215,6 +220,16 @@ article {
 	font-size: 17px;
 	margin-bottom: 100px;
 	line-height: 1.9;
+}
+
+article h1 {
+	font-size: 24px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+article h2 {
+	font-size: 21px;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
