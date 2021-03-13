@@ -8,7 +8,7 @@ permalink: /contact/
       <div class="post-title">Contact</div>
     </header>
     <h2>E-mail</h2>
-    <div>zw2723@columbia.edu</div>
+    <div class="contact">zw2723@columbia.edu</div>
     <h2>Location</h2>
-    <div>No. 4, South Fourth Street, Zhongguancun, Haidian District, Beijing, China</div>
+    <div class="contact">No. 4, South Fourth Street, Zhongguancun, Haidian District, Beijing, China</div>
 </article>
